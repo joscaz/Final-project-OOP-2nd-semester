@@ -1,0 +1,9 @@
+1 Batman 120 accion 9 3
+3 The_Hobbit 124 drama 8 3
+4 Stranger_Things 45 suspenso 10 el_Inicio 1
+5 Roma 90 drama 10 1
+6 The_Chosen 51 drama 6 el_origen 1
+17 Inception 125 suspenso 9 1
+18 Stranger_Things 47 suspenso 9 la_casa 1
+22 The_Chosen 58 drama 5 la_llamada 2
+41 Star_Wars 150 ciencia-ficcion 7 8
